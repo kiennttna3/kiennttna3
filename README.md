@@ -81,7 +81,7 @@
   <br/>
   
   <p align="center">
-    <a href="https://github.com/kiennttna3">
+    <a href="https://git.io/streak-stats">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=kiennttna3&theme=cyber-streakglow&border=7F3FBF" alt="Saif's GitHub streak"/>
     </a>
   </p>
