@@ -82,7 +82,7 @@
   
   <p align="center">
     <a href="https://github.com/kiennttna3">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiennttna3&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=kiennttna3&theme=cyber-streakglow&border=7F3FBF" alt="Saif's GitHub streak"/>
     </a>
   </p>
   
@@ -113,3 +113,19 @@
   ```csharp 
   kill $(lsof -t -i:8000)
   ```
+
+<p align="left">
+    <a href="https://github.com/kiennttna3">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kiennttna3&theme=neon&repo=cmanga" alt="TrungKien GitHub Contribution"/>
+    </a>
+</p>
+<p align="right">
+    <a href="https://github.com/kiennttna3">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kiennttna3&theme=neon&repo=Blog-nestjs" alt="TrungKien GitHub Contribution"/>
+    </a>
+</p>
+<p align="left">
+    <a href="https://github.com/kiennttna3">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kiennttna3&theme=neon&repo=blog" alt="TrungKien GitHub Contribution"/>
+    </a>
+</p>
