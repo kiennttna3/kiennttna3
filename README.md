@@ -113,19 +113,22 @@
   ```csharp 
   kill $(lsof -t -i:8000)
   ```
-
-<p align="left">
-    <a href="https://github.com/kiennttna3">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kiennttna3&theme=neon&repo=cmanga" alt="TrungKien GitHub Contribution"/>
-    </a>
+<p>
+      <p align="left">
+          <a href="https://github.com/kiennttna3/cmanga">
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kiennttna3&theme=neon&repo=cmanga" alt="TrungKien GitHub Contribution"/>
+          </a>
+      </p>
+      <p align="right">
+          <a href="https://github.com/kiennttna3/Blog-nestjs">
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kiennttna3&theme=neon&repo=Blog-nestjs" alt="TrungKien GitHub Contribution"/>
+          </a>
+      </p>
 </p>
-<p align="right">
-    <a href="https://github.com/kiennttna3">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kiennttna3&theme=neon&repo=Blog-nestjs" alt="TrungKien GitHub Contribution"/>
-    </a>
-</p>
-<p align="left">
-    <a href="https://github.com/kiennttna3">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kiennttna3&theme=neon&repo=blog" alt="TrungKien GitHub Contribution"/>
-    </a>
+<p>
+      <p align="left">
+          <a href="https://github.com/kiennttna3/blog">
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kiennttna3&theme=neon&repo=blog" alt="TrungKien GitHub Contribution"/>
+          </a>
+      </p>
 </p>
