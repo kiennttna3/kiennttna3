@@ -81,22 +81,21 @@
  <br/>
  
  <p align="center">
-   <a href=https://github.com/kiennttna3">
-     <img src="https://github-readme-streak-stats.herokuapp.com?user=kiennttna3&theme=cyber-streakglow&locale=vi" alt="GitHub Streak" />
+   <a href="https://github.com/kiennttna3">
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiennttna3&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
    </a>
  </p>
  
  <p align="center">
    <a href="https://github.com/kiennttna3">
-     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kiennttna3&theme=2077" alt="TrungKien GitHub Contribution"/>
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kiennttna3&theme=radical" alt="TrungKien GitHub Contribution"/>
    </a>
  </p>
  
  <a> 
      <a href="https://github.com/kiennttna3">
-     <img alt="TrungKien Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?
-username=kiennttna3&show_icons=true&count_private=true&theme=ambient_gradient&icon_color=F8D866&locale=vi" height="192px" width="49.5%"/></a>
-   <a href="https://github.com/kiennttna3"><img alt="TrungKien Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kiennttna3&langs_count=8&layout=compact&theme=ambient_gradient&border_color=7F3FBF&icon_color=F8D866&locale=vi" height="192px" width="49.5%"/></a>
+     <img alt="TrungKien Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=kiennttna3&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+   <a href="https://github.com/kiennttna3"><img alt="TrungKien Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kiennttna3&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
    <br/>
  </a>
  
@@ -114,21 +113,3 @@ username=kiennttna3&show_icons=true&count_private=true&theme=ambient_gradient&ic
  ```csharp 
  kill $(lsof -t -i:8000)
  ```
-
-<p align="center">
-   <a href="https://github.com/kiennttna3">
-     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kiennttna3&theme=neon&repo=Blog-nestjs&locale=vi" alt="GitHub Extra Pins" />
-   </a>
- </p>
- 
- <p align="center">
-   <a href="https://github.com/kiennttna3">
-     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kiennttna3&theme=neon&repo=cmanga&locale=vi" alt="GitHub Extra Pins"/>
-   </a>
- </p>
-
- <p align="center">
-   <a href="https://github.com/kiennttna3">
-     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kiennttna3&theme=neon&repo=blog&locale=vi" alt="GitHub Extra Pins"/>
-   </a>
- </p>
