@@ -82,7 +82,53 @@
   <br/>
   <hr/>
   <br/>
-  
+
+  <p align="center">
+    <a>
+      <img src="https://git-profile-awaken.vercel.app/api?username=kiennttna3&theme=solo_leveling&mode=mortal&widget=status" alt="status"/>
+    </a>
+  </p>
+
+  <p align="center">
+      <a>
+          <img src="https://git-profile-awaken.vercel.app/api?username=kiennttna3&theme=solo_leveling&mode=mortal&widget=quest" alt="quest"/>
+      </a>
+  </p>
+  <p align="center">
+      <a>
+          <img src="https://git-profile-awaken.vercel.app/api?username=kiennttna3&theme=solo_leveling&mode=mortal&widget=skill" alt="skill"/>
+      </a>
+  </p>
+
+  <p align="center">
+    <a>
+      <img src="https://git-profile-awaken.vercel.app/api?username=kiennttna3&theme=solo_leveling&mode=mortal&widget=contribution" alt="contribution"/>
+    </a>
+  </p>
+
+  <p align="center">
+      <a>
+          <img hspace="10" src="https://git-profile-awaken.vercel.app/api?username=kiennttna3&theme=solo_leveling&mode=mortal&widget=stat&target=STR" alt="STR"/>
+      </a>
+      <a>
+          <img hspace="10" src="https://git-profile-awaken.vercel.app/api?username=kiennttna3&theme=solo_leveling&mode=mortal&widget=stat&target=AGI" alt="AGI"/>
+      </a>
+      <a>
+          <img hspace="10" src="https://git-profile-awaken.vercel.app/api?username=kiennttna3&theme=solo_leveling&mode=mortal&widget=stat&target=INT" alt="INT"/>
+      </a>
+  </p>
+  <p align="center">
+      <a>
+          <img hspace="10" src="https://git-profile-awaken.vercel.app/api?username=kiennttna3&theme=solo_leveling&mode=mortal&widget=stat&target=VIT" alt="VIT"/>
+      </a>
+      <a>
+          <img hspace="10" src="https://git-profile-awaken.vercel.app/api?username=kiennttna3&theme=solo_leveling&mode=mortal&widget=stat&target=LUK" alt="LUK"/>
+      </a>
+      <a>
+          <img hspace="10" src="https://git-profile-awaken.vercel.app/api?username=kiennttna3&theme=solo_leveling&mode=mortal&widget=stat&target=CHA" alt="CHA"/>
+      </a>
+  </p>
+
   <p align="center">
     <a href="https://git.io/streak-stats">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=kiennttna3&theme=cyber-streakglow&border=7F3FBF" alt="Saif's GitHub streak"/>
