@@ -1,7 +1,7 @@
-<h2 align="center">
-      Welcome to my Github!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  </h2>
+<div align="center" style="display: inline-block;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%ffffff&size=48&center=true&vCenter=true&width=1200&height=100&lines=Welcome!" alt="Typing SVG" style="display: inline-block;">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" style="display: inline-block;">
+</div>
   
   
   
@@ -59,6 +59,127 @@
   <br/>
   <br/>
   <br/>
+
+  ## Tools and Technologies 🛠
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><br>TS
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /><br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="48" height="48" alt="Sass" /><br>Sass
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=expressjs" width="48" height="48" alt="Expressjs" /><br>Express.js
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" /><br>GitHub
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="48" height="48" alt="icon" /><br>Redux
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" width="48" height="48" alt="icon" /><br>Gatsby
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/storybook-icon.svg" width="48" height="48" alt="icon" /><br>Storybook
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="48" height="48" alt="icon" /><br>Webpack
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="NextJS" /><br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" /><br>Tailwind
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" /><br>Nestjs
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br>MongoDB
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /><br>AWS
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/eslint-icon.svg" width="48" height="48" alt="icon" /><br>Eslint
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/jest-icon.svg" width="48" height="48" alt="icon" /><br>Jest
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" width="48" height="48" alt="icon" /><br>Testinglibrary
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="icon" /><br>Rest
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=golang" width="48" height="48" alt="Golang" /><br>Golang
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" /><br>Vue.js    
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vuetify" width="48" height="48" alt="Vuetify" /><br>Vuetify
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" /><br>Django
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="GQL" /><br>GraphQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" /><br>Docker
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="48" height="48" alt="icon" /><br>Kubernetes
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="48" height="48" alt="icon" /><br>Nginx
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="48" height="48" alt="icon" /><br>Raspberrypi
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="icon" /><br>Java
+    </td>
+  </tr>
+      <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/rescript-icon.svg" width="48" height="48" alt="icon" /><br>Rescript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="48" height="48" alt="Vue" alt="icon" /><br>C#    
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/swift-icon.svg" width="48" height="48" alt="Vuetify" alt="icon" /><br>Vuetify
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" /><br>Prettier
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="icon" /><br>Js
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" height="48" alt="icon" /><br>C++
+    </td>
+  </tr>
+</table>
   
   ## Use To Code
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
